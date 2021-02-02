@@ -1,0 +1,36 @@
+.navbar-brand{
+    font-size: xx-large;
+    font-family: 'Syne Mono', monospace;
+    color: #ffffff;
+}
+
+.nav-link{
+    font-size: medium;
+    font-family: 'Syne Mono', monospace;
+    color: #ffffff;
+}
+
+.navbar{
+    background-color: #18453B;
+}
+
+footer {
+    padding: .25%;
+    clear: both;
+    text-align: center;
+    background-color: #18453B;
+    font-size: medium;
+    font-family: 'Syne Mono', monospace;
+    color: white;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/87085.jpg");
+  }
+
+  .container{
+    float: left;
+    margin-left: 20px;
+    background-color: #18453B;
+    color: white;
+}
