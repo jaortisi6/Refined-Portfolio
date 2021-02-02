@@ -14,6 +14,9 @@ A better version of an earlier attempt at a portfolio. This version contains act
 
 # Screenshots
 
+![Refined Portfolio Screenshot 1](Screenshots\Screenshot-1.PNG)
+![Refined Portfolio Screenshot 2](Screenshots\Screenshot-2.PNG)
+![Refined Portfolio Screenshot 3](Screenshots\Screenshot-3.PNG)
 
 # License
 
