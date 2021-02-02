@@ -4,7 +4,6 @@
 # Technologies Used
 ```
 HTML
-JavaScript
 CSS
 Bootstrap
 ```
